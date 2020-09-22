@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/share/nginx/html":{"guestpath":"/usr/share/nginx/html","hostpath":"C:/Users/gsommaini/OneDrive - Bip/Desktop/vagrant-serafini-sommaini","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/gsommaini/OneDrive - Bip/Desktop/vagrant-serafini-sommaini","disabled":false,"__vagrantfile":true}}}
